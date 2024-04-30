@@ -14,14 +14,6 @@ The project includes the following steps:
 
 4. **Model Evaluation**: The trained models are evaluated using various metrics such as accuracy, precision, recall, F1-score, and ROC AUC score.
 
-## Usage
-
-1. Clone the repository:
-
-```bash
-git clone https://github.com/yourusername/diabetes-prediction.git
-cd diabetes-prediction
-
 ## Dataset
 The dataset used for this project contains the following features:
 
@@ -39,3 +31,11 @@ The target variable is "Outcome," indicating whether the individual has diabetes
 Support Vector Machine (SVM): Linear SVM classifier is used for binary classification.
 K-Nearest Neighbors (KNN): KNN classifier is utilized with a chosen number of neighbors.
 Random Forest: Random Forest classifier with 100 decision trees is employed.
+
+## Usage
+
+1. Clone the repository:
+
+```bash
+git clone https://github.com/yourusername/diabetes-prediction.git
+cd diabetes-prediction
